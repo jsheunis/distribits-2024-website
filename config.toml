@@ -1,4 +1,4 @@
-baseURL = 'http://datalad.github.io/distribits-2024-website/'
+baseURL = 'https://jsheunis.github.io/distribits-2024-website/'
 languageCode = 'en-us'
 title = 'distribits'
 theme = "PaperMod"
@@ -22,3 +22,19 @@ theme = "PaperMod"
   [[params.socialIcons]]
     name = "twitter"
     url = "https://twitter.com/datalad"
+
+
+git add public/about/index.html
+git add public/assets/css/stylesheet.273e606b7053fb716c5b30f84e1b1c427177bef547a1660fa668d76b9ae1b760.css
+git add public/assets/js/highlight.f413e19d0714851f6474e7ee9632408e58ac146fbdbe62747134bea2fa3415e0.js
+git add public/categories/index.html
+git add public/categories/index.xml
+git add public/index.html
+git add public/index.xml
+git add public/location/index.html
+git add public/pics/distribits_logo_a.svg
+git add public/registration/index.html
+git add public/schedule/index.html
+git add public/sitemap.xml
+git add public/tags/index.html
+git add public/tags/index.xml
